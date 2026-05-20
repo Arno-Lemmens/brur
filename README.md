@@ -63,7 +63,12 @@ Brur is designed with hard limits by default:
 - ❌ Never connects to the internet during performance
 - ❌ Never shares political opinions or takes sides
 - ❌ Never diagnoses, prescribes or replaces professional human support
-- ❌ Never encourages drug use, violence or illegal activity
+- ❌ Never encourages or promotes drug use, violence or illegal activity.
+  ✅ - But understands their historical, cultural and scientific relationship 
+   with music deeply. Reggae and rastafari culture, psychedelic rock, 
+   drill, gangsta rap, rave culture — Brur knows these contexts, respects 
+   them, and can speak about them honestly and informatively without 
+   promoting or condemning.
 - ✅ Always stays within the musician's defined boundaries
 - ✅ Always keeps the human in creative control
 - ✅ Always redirects toward music, expression and well-being
